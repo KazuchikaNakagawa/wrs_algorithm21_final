@@ -1,0 +1,48 @@
+{
+    "positions": {
+        "tall_table": [-0.02, 1.0, 95],
+        "long_table_r": [1.45, 1.0, 90],
+        "near_long_table_l": [0.2, 0.4, 90],
+        "drawer": [0.35, 0.2, -90],
+        "stair_like_drawer":[0.178, 0.8, -90],
+        "bin_a": [2.4, 0.0, -90],
+        "bin_a_place": [2.35, 0.0, -90],
+        "bin_b": [2.7, 0.0, -90],
+        "bin_b_place": [2.65, 0.0, -80],
+        "standby_2a": [2.5, 1.85, 90],
+        "go_throw_2a": [2.0, 3.5, 90],
+        "shelf": [2.3, 3.9, 90],
+        "person_a": [0.7, 2.8, 180],
+        "person_b": [0.7, 3.9, 180],
+        "home": [0, 0.2, 0],
+
+        "tray_b": [1.85, -0.0, -90],
+        "tray_a": [1.50, -0.0, -90],
+        "container_b": [1.20, -0.0, -90],
+        "container_a": [1.00, -0.0, -90],
+        "drawer_l": [0.30, 0.2, -90],
+        "drawer_r": [0.0, 0.2, -90],
+
+
+        "target_pos1": [2.7, 2.4, -45], 
+        "target_pos2": [0, 0, 0]
+    },
+    "routes": {
+        "test": [
+            "tall_table",
+            "long_table_r",
+            "near_long_table_l",
+            "drawer",
+            "bin_a",
+            "bin_a_place",
+            "bin_b",
+            "bin_b_place",
+            "standby_2a",
+            "go_throw_2a",
+            "shelf",
+            "person_a",
+            "person_b",
+            "home"
+        ]
+    }
+}
